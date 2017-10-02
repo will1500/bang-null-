@@ -1128,4 +1128,14 @@ h1, h2, h3, h4, h5, h6 {
   animation-fill-mode: both;
 }
 
+.office{
+    position: absolute;
+  width: 300px;
+  height: 200px;
+  z-index: 15;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+  background: red;
+}
 /*# sourceMappingURL=style.css.map */
